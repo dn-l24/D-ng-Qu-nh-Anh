@@ -1793,8 +1793,8 @@ function RayfieldLibrary:CreateWindow(Settings)
 				task.wait(math.random(180, 600))
 				if rayfieldDestroyed then break end
 				RayfieldLibrary:Notify({
-					Title = "Dương Quỳnh Anh Interface", -- Đổi tên
-					Content = "Enjoying this UI library? Find it at sirius.menu/discord",
+					Title = "Dương Quỳnh Anh",
+					Content = "Anh Yêu Em Dương Quỳnh Anh",
 					Duration = 7,
 					Image = 4370033185,
 				})
